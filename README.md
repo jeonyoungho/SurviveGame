@@ -21,12 +21,12 @@
 <img width="500" height="500" src="https://user-images.githubusercontent.com/44339530/71456606-92a89980-27dd-11ea-9019-3192de89aaa5.PNG">
 </div>
 
-- 게임선택화면
+- 게임 선택 화면
 <div>
 <img width="500" height="500" src="https://user-images.githubusercontent.com/44339530/71456228-d6020880-27db-11ea-9f13-f56117d01156.PNG">
 </div>
 
-- game1 실행화면
+- 게임 실행 화면
 <div>
 <img width="500" height="500" src="https://user-images.githubusercontent.com/44339530/71456184-99361180-27db-11ea-8ab8-f214b068dd22.PNG">
 </div>
