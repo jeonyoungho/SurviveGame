@@ -11,10 +11,15 @@
 
 <h2>ScreenShots</h2>
 
+- 기본화면
 <div>
-<img width="200" src="https://user-images.githubusercontent.com/44339530/71456067-0bf2bd00-27db-11ea-811e-78ccbd9d24c6.PNG">
-<img width="200" src="https://user-images.githubusercontent.com/44339530/71456184-99361180-27db-11ea-8ab8-f214b068dd22.PNG">
-<img width="200" src="https://user-images.githubusercontent.com/44339530/71456228-d6020880-27db-11ea-9f13-f56117d01156.PNG">
-<img width="200" src="https://user-images.githubusercontent.com/44339530/71456606-92a89980-27dd-11ea-9019-3192de89aaa5.PNG">
-
+<img width="500" height="500" src="https://user-images.githubusercontent.com/44339530/71456067-0bf2bd00-27db-11ea-811e-78ccbd9d24c6.PNG">
 </div>
+
+- 조작법
+<img width="500" height="500" src="https://user-images.githubusercontent.com/44339530/71456184-99361180-27db-11ea-8ab8-f214b068dd22.PNG">
+
+- 게임선택화면
+<img width="500" height="500" src="https://user-images.githubusercontent.com/44339530/71456228-d6020880-27db-11ea-9f13-f56117d01156.PNG">
+- game1 실행화면
+<img width="500" height="500" src="https://user-images.githubusercontent.com/44339530/71456606-92a89980-27dd-11ea-9019-3192de89aaa5.PNG">
