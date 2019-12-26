@@ -1,4 +1,4 @@
-- SurviveGameWithXMLParsing
+<h2>기능 설명</h2>
 
 - 적의 공격을 피해 총알을 발사하여 살아남는 생존게임 
 
@@ -9,7 +9,7 @@
 
 - 노래선택기능추가
 
-- Screenshots
+<h2>ScreenShots</h2>
 
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/44339530/71456067-0bf2bd00-27db-11ea-811e-78ccbd9d24c6.PNG">
